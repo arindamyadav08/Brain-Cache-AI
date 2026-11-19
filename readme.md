@@ -56,7 +56,7 @@ Get the answer
 Keep adding
 
 
-The goal is to remove the need for manual organization.
+## The goal is to remove the need for manual organization.
 🚀 How BrainCache Works
 Step 1 — Drop
 Add different types of information into one place:
