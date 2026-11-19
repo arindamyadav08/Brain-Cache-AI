@@ -118,34 +118,10 @@ BrainCache focuses on:
 Capturing information → understanding it → indexing it by meaning → answering questions about it.
 
 🏗️ System Architecture
-                 USER           
-                   │
-                   ▼
-          ┌─────────────────┐
-          │   Web Interface │
-          └────────┬────────┘
-                   │
-                   ▼
-          ┌─────────────────┐
-          │   Backend / AI  │
-          └────────┬────────┘
-                   │
-       ┌───────────┼───────────┐
-       ▼           ▼           ▼
-     Files        OCR      Speech-to-Text
-       │           │           │
-       └───────────┼───────────┘
-                   ▼
-          Semantic Embeddings
-                   │
-                   ▼
-            Vector Search
-                   │
-                   ▼
-              AI / LLM
-                   │
-                   ▼
-          Answer + Source
+
+               <img width="224" height="449" alt="image" src="https://github.com/user-attachments/assets/4ebd0d7d-e4be-4122-95eb-268ed6d7b870" />
+							 
+
 🛠️ Technology Stack
 The proposed architecture uses:
 Layer	Technology	Purpose
