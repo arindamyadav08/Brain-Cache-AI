@@ -35,23 +35,23 @@ The Memory Loop
 
 Drop anything
 
-      ↓
+   ↓
 
 AI reads it
 
-      ↓
+   ↓
       
 Index by meaning
 
-      ↓
+   ↓
       
 Ask in plain words
 
-      ↓
+   ↓
       
 Get the answer
 
-      ↓
+   ↓
       
 Keep adding
 
@@ -119,7 +119,7 @@ Capturing information → understanding it → indexing it by meaning → answer
 
 🏗️ System Architecture
 
-               <img width="224" height="449" alt="image" src="https://github.com/user-attachments/assets/4ebd0d7d-e4be-4122-95eb-268ed6d7b870" />
+ <img width="224" height="449" alt="image" src="https://github.com/user-attachments/assets/4ebd0d7d-e4be-4122-95eb-268ed6d7b870" />
 							 
 
 🛠️ Technology Stack
