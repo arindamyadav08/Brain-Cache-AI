@@ -1,4 +1,5 @@
-BrainCache 🧠
+# BrainCache 🧠
+
 Your second memory. Drop in anything you save, then just ask for what you remember.
 
 BrainCache is an AI-powered personal memory system designed to solve a simple problem: we save everything, but can find almost nothing later.
