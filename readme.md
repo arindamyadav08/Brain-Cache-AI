@@ -30,18 +30,32 @@ Traditional file management asks:
 BrainCache asks:
 "What do I remember, and what do I want to know?"
 
+
 The Memory Loop
+
 Drop anything
+
       ↓
+
 AI reads it
+
       ↓
+      
 Index by meaning
+
       ↓
+      
 Ask in plain words
+
       ↓
+      
 Get the answer
+
       ↓
+      
 Keep adding
+
+
 The goal is to remove the need for manual organization.
 🚀 How BrainCache Works
 Step 1 — Drop
