@@ -118,7 +118,7 @@ BrainCache focuses on:
 Capturing information → understanding it → indexing it by meaning → answering questions about it.
 
 🏗️ System Architecture
-                 USER
+                 USER           
                    │
                    ▼
           ┌─────────────────┐
